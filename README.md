@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Naimurchowdhury
-- 👀 I’m interested in collaboration in operations research (deterministic and stochastic models) projects
-- 🌱 I’m currently a PhD student at NC State in Industrial Engineering
-- 📫 Reach me @ naimur2020rahman@gmail.com
+- 👋 Hi, I’m @Naimurchowdhury, a Graduate Research Assistant in Edward P. Fitts Department of Industrial and Systems Engineering at North Carolina State University. 
+- 👀 My current research focuses on humanitarian logistics, notably the hunger-relief supply chain under extreme events.
+- 🌱  use stochastic optimization, integer programming, and statistical learning methods for solving problems in multidisciplinary projects funded by U.S. National Science Foundation (NSF [Award#2125600 , Award#2234598]
+- 📫 Reach me @ naimur2020rahman@gmail.com or nchowdh2@ncsu.edu
 
 <!---
 Naimurchowdhury/Naimurchowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
